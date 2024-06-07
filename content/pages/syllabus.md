@@ -23,9 +23,9 @@ In this course, we will present the theory of PCPs, and prove some fundamental c
 
 Material from other courses in Probabilistically Checkable Proofs can be found online in various places; for example: 
 
-- {{% resource_link "9de726d4-8b29-430f-8015-c7c491905942" "*Hardness of Approximation: PCP Theorem to 2-to-2 Games Theorem*" %}} online course by Subhash Khot, NYU
-- {{% resource_link "406b0ce2-506b-4f9f-b8e7-c64c7c107bcb" "*Probabilistically Checkable Proofs*" %}} online course by Irit Dinur and Dana Moshkovitz, Weizmann Institute of Science
-- {{% resource_link "0f98ac80-c555-44ff-bd92-194b71dece22" "*Foundations of Probabilistic Proofs*" %}} online course by Alessandro Chiesa, Berkeley
+- [*Hardness of Approximation: PCP Theorem to 2-to-2 Games Theorem*](https://cs.nyu.edu/~khot/PCP-Spring20.html) online course by Subhash Khot, NYU
+- [*Probabilistically Checkable Proofs*](https://people.csail.mit.edu/dmoshkov/courses/pcp/index.html#:~:text=Course%20Summary,of%20queries%20to%20the%20proof.) online course by Irit Dinur and Dana Moshkovitz, Weizmann Institute of Science
+- [*Foundations of Probabilistic Proofs*](https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html) online course by Alessandro Chiesa, Berkeley
 
 ## Grading 
 
